@@ -6,7 +6,7 @@
 
 ### Links and Resources
 
-- [Pull Request]
+- [Pull Request](https://github.com/401-repos/serverless-api/pull/1)
 - [Root URL](https://47va41qh1l.execute-api.us-east-1.amazonaws.com/)
 
 ### Setup
